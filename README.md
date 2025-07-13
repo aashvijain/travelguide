@@ -35,8 +35,3 @@ This is a simple Streamlit web application that generates a personalized travel 
 - Fill in the city, month, language, and select your budget.
 - The app will display a travel guide tailored to your input.
 
-## Example
-![screenshot](screenshot.png)
-
-## License
-MIT
